@@ -26,6 +26,7 @@ This is a simple encrypted chat application built using React and express JS. Th
    ```
 
 2. **Setup the backend**
+
     **Navigate to the backend directory**
     ```bash
     cd backend
@@ -47,6 +48,7 @@ This is a simple encrypted chat application built using React and express JS. Th
     ```
 
 3. **Setup the frontend**
+
     **From the project root, navigate to the frontend directory**
     ```bash
     cd frontend
