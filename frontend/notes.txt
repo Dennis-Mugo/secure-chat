@@ -1,0 +1,7 @@
+How to create vite + react project
+
+npm create vite@latest my-react-app --template
+
+Select 'React' as the framework
+
+select 'Javascript' as the variant
