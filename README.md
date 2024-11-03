@@ -49,6 +49,8 @@ This is a simple encrypted chat application built using React and express JS. Th
 
 3. **Setup the frontend**
 
+    **Open another terminal/ Command line from the project root directory**
+
     **From the project root, navigate to the frontend directory**
     ```bash
     cd frontend
@@ -62,6 +64,11 @@ This is a simple encrypted chat application built using React and express JS. Th
     **Run the frontend**
     ```bash
     npm run dev
+    ```
+
+    **Click on the link displayed**
+    ```bash
+     http://localhost:5173/
     ```
 
 ## Usage Guide
