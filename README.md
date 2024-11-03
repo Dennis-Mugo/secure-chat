@@ -22,42 +22,42 @@ This is a simple encrypted chat application built using React and express JS. Th
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/chat-application-frontend.git
+   git clone https://github.com/Dennis-Mugo/secure-chat.git
    ```
 
 2. **Setup the backend**
-    *** Navigate to the backend directory ***
+    **Navigate to the backend directory**
     ```bash
     cd backend
     ```
 
-    *** Install dependencies ***
+    **Install dependencies**
     ```bash
     npm install
     ```
 
-    *** Run the tests ***
+    **Run the tests**
     ```bash
     npm test
     ```
 
-    *** Run the backend ***
+    **Run the backend**
     ```bash
     node main.js
     ```
 
 3. **Setup the frontend**
-    *** From the project root, navigate to the frontend directory ***
+    **From the project root, navigate to the frontend directory**
     ```bash
     cd frontend
     ```
 
-    *** Install dependencies ***
+    **Install dependencies**
     ```bash
     npm install
     ```
 
-    *** Run the frontend ***
+    **Run the frontend**
     ```bash
     npm run dev
     ```
