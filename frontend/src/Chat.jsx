@@ -105,10 +105,10 @@ function Chat() {
       <br />
       <button onClick={handleSendMessage}>Send Message</button>
       <br />
-      <hr style={{width: "90%", height: "0.01px", marginBottom: "20px"}} />
+      <hr style={{width: "90%", height: "0.01px", marginBottom: "20px", background: "linear-gradient(to right, #646cff, #535bf2)"}} />
       <button onClick={handleReceiveMessage} style={{marginBottom: "15px"}}>Receive Message</button>
       {receivedMessage && (
-        <div style={{width: "75%"}}>
+        <div style={{width: "75%", overflowY: "auto"}}>
           <h3 style={{textAlign: "center"}}>Received Message:</h3>
           <p style={{textAlign: "center", textJustify: "justify"}}>{receivedMessage}</p>
         </div>
